@@ -1,4 +1,4 @@
-# Tag-accelerometer-caller-id
+# Tag-accelerometer-caller-id;
 This repository contains scripts used in the analysis conducted in the manuscript "The role of accelerometer hardware limitations in focal caller identification from acoustic recording tags attached to mysticetes" submitted to the Journal of the Acoustic Society of America. 
 
 Summary Statement
